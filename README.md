@@ -1,4 +1,4 @@
-# Ranked-Retrieval-of-Captioned-dataset
+# Ranked-Retrieval
 
 
 ## Dataset
